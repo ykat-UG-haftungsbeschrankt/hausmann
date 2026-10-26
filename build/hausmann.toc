@@ -1,0 +1,8 @@
+\contentsline {chapter}{\numberline {1}The Last Build}{1}{}%
+\contentsline {chapter}{\numberline {2}Home Operations}{4}{}%
+\contentsline {chapter}{\numberline {3}The Voice in the Pebble}{7}{}%
+\contentsline {chapter}{\numberline {4}A Small, Well-Tested Ghost}{10}{}%
+\contentsline {chapter}{\numberline {5}Local Mode}{13}{}%
+\contentsline {chapter}{\numberline {6}The House With a Mouth}{16}{}%
+\contentsline {chapter}{\numberline {7}A Story Without a Server}{19}{}%
+\contentsline {chapter}{\numberline {8}A Quiet Kind of Work}{21}{}%
